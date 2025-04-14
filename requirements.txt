@@ -1,0 +1,10 @@
+Flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.1
+openai==1.14.3
+langchain==0.1.14
+langchain-community==0.0.28
+faiss-cpu==1.7.4
+transformers==4.40.1
+sentence-transformers==2.7.0
+torch==2.2.2
